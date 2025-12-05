@@ -1,13 +1,5 @@
-## Hi there 👋
-
-<!--
-**ja-hasan/ja-hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jahid Hasan😎</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<img align="right" alt="coding" width="400" src="https://pixabay.com/videos/search/programmer%20gif/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ja-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="ja-hasan" /> </p>
 
@@ -30,13 +22,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ja-hasan&show_icons=true&locale=en&layout=compact" alt="ja-hasan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ja-hasan&show_icons=true&locale=en" alt="ja-hasan" /></p>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
